@@ -1,0 +1,338 @@
+** Drc report for circuito_pituca.kicad_pcb **
+** Created on 2026-03-19T13:28:08-0300 **
+
+** Found 82 DRC violations **
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D13-Pad28) e unconnected-(J3-Pin_13-Pad13))
+    Substituição local; error
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 28 [unconnected-(U1-D13-Pad28)] de U1
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 13 [unconnected-(J3-Pin_13-Pad13)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D13-Pad28) e unconnected-(J3-Pin_13-Pad13))
+    Substituição local; error
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 28 [unconnected-(U1-D13-Pad28)] de U1
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 13 [unconnected-(J3-Pin_13-Pad13)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D12-Pad27) e unconnected-(J3-Pin_12-Pad12))
+    Substituição local; error
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 27 [unconnected-(U1-D12-Pad27)] de U1
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 12 [unconnected-(J3-Pin_12-Pad12)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D12-Pad27) e unconnected-(J3-Pin_12-Pad12))
+    Substituição local; error
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 27 [unconnected-(U1-D12-Pad27)] de U1
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 12 [unconnected-(J3-Pin_12-Pad12)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D14-Pad26) e unconnected-(J3-Pin_11-Pad11))
+    Substituição local; error
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 26 [unconnected-(U1-D14-Pad26)] de U1
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 11 [unconnected-(J3-Pin_11-Pad11)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D14-Pad26) e unconnected-(J3-Pin_11-Pad11))
+    Substituição local; error
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 26 [unconnected-(U1-D14-Pad26)] de U1
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 11 [unconnected-(J3-Pin_11-Pad11)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D27-Pad25) e unconnected-(J3-Pin_10-Pad10))
+    Substituição local; error
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 25 [unconnected-(U1-D27-Pad25)] de U1
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 10 [unconnected-(J3-Pin_10-Pad10)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D27-Pad25) e unconnected-(J3-Pin_10-Pad10))
+    Substituição local; error
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 25 [unconnected-(U1-D27-Pad25)] de U1
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 10 [unconnected-(J3-Pin_10-Pad10)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D26-Pad24) e unconnected-(J3-Pin_9-Pad9))
+    Substituição local; error
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 24 [unconnected-(U1-D26-Pad24)] de U1
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 9 [unconnected-(J3-Pin_9-Pad9)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D26-Pad24) e unconnected-(J3-Pin_9-Pad9))
+    Substituição local; error
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 24 [unconnected-(U1-D26-Pad24)] de U1
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 9 [unconnected-(J3-Pin_9-Pad9)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D25-Pad23) e unconnected-(J3-Pin_8-Pad8))
+    Substituição local; error
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 23 [unconnected-(U1-D25-Pad23)] de U1
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 8 [unconnected-(J3-Pin_8-Pad8)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D25-Pad23) e unconnected-(J3-Pin_8-Pad8))
+    Substituição local; error
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 23 [unconnected-(U1-D25-Pad23)] de U1
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 8 [unconnected-(J3-Pin_8-Pad8)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D33-Pad22) e unconnected-(J3-Pin_7-Pad7))
+    Substituição local; error
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 22 [unconnected-(U1-D33-Pad22)] de U1
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 7 [unconnected-(J3-Pin_7-Pad7)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D33-Pad22) e unconnected-(J3-Pin_7-Pad7))
+    Substituição local; error
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 22 [unconnected-(U1-D33-Pad22)] de U1
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 7 [unconnected-(J3-Pin_7-Pad7)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D32-Pad21) e unconnected-(J3-Pin_6-Pad6))
+    Substituição local; error
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 21 [unconnected-(U1-D32-Pad21)] de U1
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 6 [unconnected-(J3-Pin_6-Pad6)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D32-Pad21) e unconnected-(J3-Pin_6-Pad6))
+    Substituição local; error
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 21 [unconnected-(U1-D32-Pad21)] de U1
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 6 [unconnected-(J3-Pin_6-Pad6)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D35-Pad20) e unconnected-(J3-Pin_5-Pad5))
+    Substituição local; error
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 20 [unconnected-(U1-D35-Pad20)] de U1
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 5 [unconnected-(J3-Pin_5-Pad5)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D35-Pad20) e unconnected-(J3-Pin_5-Pad5))
+    Substituição local; error
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 20 [unconnected-(U1-D35-Pad20)] de U1
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 5 [unconnected-(J3-Pin_5-Pad5)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D34-Pad19) e unconnected-(J3-Pin_4-Pad4))
+    Substituição local; error
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 19 [unconnected-(U1-D34-Pad19)] de U1
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 4 [unconnected-(J3-Pin_4-Pad4)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D34-Pad19) e unconnected-(J3-Pin_4-Pad4))
+    Substituição local; error
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 19 [unconnected-(U1-D34-Pad19)] de U1
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 4 [unconnected-(J3-Pin_4-Pad4)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-VN-Pad18) e unconnected-(J3-Pin_3-Pad3))
+    Substituição local; error
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 18 [unconnected-(U1-VN-Pad18)] de U1
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 3 [unconnected-(J3-Pin_3-Pad3)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-VN-Pad18) e unconnected-(J3-Pin_3-Pad3))
+    Substituição local; error
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 18 [unconnected-(U1-VN-Pad18)] de U1
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 3 [unconnected-(J3-Pin_3-Pad3)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-VP-Pad17) e unconnected-(J3-Pin_2-Pad2))
+    Substituição local; error
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 17 [unconnected-(U1-VP-Pad17)] de U1
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 2 [unconnected-(J3-Pin_2-Pad2)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-VP-Pad17) e unconnected-(J3-Pin_2-Pad2))
+    Substituição local; error
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 17 [unconnected-(U1-VP-Pad17)] de U1
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 2 [unconnected-(J3-Pin_2-Pad2)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-EN-Pad16) e unconnected-(J3-Pin_1-Pad1))
+    Substituição local; error
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 16 [unconnected-(U1-EN-Pad16)] de U1
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 1 [unconnected-(J3-Pin_1-Pad1)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-EN-Pad16) e unconnected-(J3-Pin_1-Pad1))
+    Substituição local; error
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 16 [unconnected-(U1-EN-Pad16)] de U1
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 1 [unconnected-(J3-Pin_1-Pad1)] de J3
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-TX0-Pad13) e unconnected-(J2-Pin_13-Pad13))
+    Substituição local; error
+    @(130,2500 mm, 132,0000 mm): Ilha PTH 13 [unconnected-(U1-TX0-Pad13)] de U1
+    @(130,2700 mm, 131,8800 mm): Ilha PTH 13 [unconnected-(J2-Pin_13-Pad13)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-TX0-Pad13) e unconnected-(J2-Pin_13-Pad13))
+    Substituição local; error
+    @(130,2500 mm, 132,0000 mm): Ilha PTH 13 [unconnected-(U1-TX0-Pad13)] de U1
+    @(130,2700 mm, 131,8800 mm): Ilha PTH 13 [unconnected-(J2-Pin_13-Pad13)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-RX0-Pad12) e unconnected-(J2-Pin_12-Pad12))
+    Substituição local; error
+    @(130,2500 mm, 129,4600 mm): Ilha PTH 12 [unconnected-(U1-RX0-Pad12)] de U1
+    @(130,2700 mm, 129,3400 mm): Ilha PTH 12 [unconnected-(J2-Pin_12-Pad12)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-RX0-Pad12) e unconnected-(J2-Pin_12-Pad12))
+    Substituição local; error
+    @(130,2500 mm, 129,4600 mm): Ilha PTH 12 [unconnected-(U1-RX0-Pad12)] de U1
+    @(130,2700 mm, 129,3400 mm): Ilha PTH 12 [unconnected-(J2-Pin_12-Pad12)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D19-Pad10) e unconnected-(J2-Pin_10-Pad10))
+    Substituição local; error
+    @(130,2500 mm, 124,3800 mm): Ilha PTH 10 [unconnected-(U1-D19-Pad10)] de U1
+    @(130,2700 mm, 124,2600 mm): Ilha PTH 10 [unconnected-(J2-Pin_10-Pad10)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D19-Pad10) e unconnected-(J2-Pin_10-Pad10))
+    Substituição local; error
+    @(130,2500 mm, 124,3800 mm): Ilha PTH 10 [unconnected-(U1-D19-Pad10)] de U1
+    @(130,2700 mm, 124,2600 mm): Ilha PTH 10 [unconnected-(J2-Pin_10-Pad10)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D18-Pad9) e unconnected-(J2-Pin_9-Pad9))
+    Substituição local; error
+    @(130,2500 mm, 121,8400 mm): Ilha PTH 9 [unconnected-(U1-D18-Pad9)] de U1
+    @(130,2700 mm, 121,7200 mm): Ilha PTH 9 [unconnected-(J2-Pin_9-Pad9)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D18-Pad9) e unconnected-(J2-Pin_9-Pad9))
+    Substituição local; error
+    @(130,2500 mm, 121,8400 mm): Ilha PTH 9 [unconnected-(U1-D18-Pad9)] de U1
+    @(130,2700 mm, 121,7200 mm): Ilha PTH 9 [unconnected-(J2-Pin_9-Pad9)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-TX2-Pad7) e unconnected-(J2-Pin_7-Pad7))
+    Substituição local; error
+    @(130,2500 mm, 116,7600 mm): Ilha PTH 7 [unconnected-(U1-TX2-Pad7)] de U1
+    @(130,2700 mm, 116,6400 mm): Ilha PTH 7 [unconnected-(J2-Pin_7-Pad7)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-TX2-Pad7) e unconnected-(J2-Pin_7-Pad7))
+    Substituição local; error
+    @(130,2500 mm, 116,7600 mm): Ilha PTH 7 [unconnected-(U1-TX2-Pad7)] de U1
+    @(130,2700 mm, 116,6400 mm): Ilha PTH 7 [unconnected-(J2-Pin_7-Pad7)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-RX2-Pad6) e unconnected-(J2-Pin_6-Pad6))
+    Substituição local; error
+    @(130,2500 mm, 114,2200 mm): Ilha PTH 6 [unconnected-(U1-RX2-Pad6)] de U1
+    @(130,2700 mm, 114,1000 mm): Ilha PTH 6 [unconnected-(J2-Pin_6-Pad6)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-RX2-Pad6) e unconnected-(J2-Pin_6-Pad6))
+    Substituição local; error
+    @(130,2500 mm, 114,2200 mm): Ilha PTH 6 [unconnected-(U1-RX2-Pad6)] de U1
+    @(130,2700 mm, 114,1000 mm): Ilha PTH 6 [unconnected-(J2-Pin_6-Pad6)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D15-Pad3) e unconnected-(J2-Pin_3-Pad3))
+    Substituição local; error
+    @(130,2500 mm, 106,6000 mm): Ilha PTH 3 [unconnected-(U1-D15-Pad3)] de U1
+    @(130,2700 mm, 106,4800 mm): Ilha PTH 3 [unconnected-(J2-Pin_3-Pad3)] de J2
+[shorting_items]: Itens encurtando duas redes (redes unconnected-(U1-D15-Pad3) e unconnected-(J2-Pin_3-Pad3))
+    Substituição local; error
+    @(130,2500 mm, 106,6000 mm): Ilha PTH 3 [unconnected-(U1-D15-Pad3)] de U1
+    @(130,2700 mm, 106,4800 mm): Ilha PTH 3 [unconnected-(J2-Pin_3-Pad3)] de J2
+[courtyards_overlap]: Sobreposição do pedaço
+    Regra: configuração das restrições do pedaço; error
+    @(104,8500 mm, 137,0800 mm): Footprint J3
+    @(117,5500 mm, 117,0350 mm): Footprint U1
+[courtyards_overlap]: Sobreposição do pedaço
+    Regra: configuração das restrições do pedaço; error
+    @(117,5500 mm, 117,0350 mm): Footprint U1
+    @(130,2700 mm, 101,4000 mm): Footprint J2
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 28 [unconnected-(U1-D13-Pad28)] de U1
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 13 [unconnected-(J3-Pin_13-Pad13)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 28 [unconnected-(U1-D13-Pad28)] de U1
+    @(104,8500 mm, 106,6000 mm): Ilha PTH 13 [unconnected-(J3-Pin_13-Pad13)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 27 [unconnected-(U1-D12-Pad27)] de U1
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 12 [unconnected-(J3-Pin_12-Pad12)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 27 [unconnected-(U1-D12-Pad27)] de U1
+    @(104,8500 mm, 109,1400 mm): Ilha PTH 12 [unconnected-(J3-Pin_12-Pad12)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 26 [unconnected-(U1-D14-Pad26)] de U1
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 11 [unconnected-(J3-Pin_11-Pad11)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 26 [unconnected-(U1-D14-Pad26)] de U1
+    @(104,8500 mm, 111,6800 mm): Ilha PTH 11 [unconnected-(J3-Pin_11-Pad11)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 25 [unconnected-(U1-D27-Pad25)] de U1
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 10 [unconnected-(J3-Pin_10-Pad10)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 25 [unconnected-(U1-D27-Pad25)] de U1
+    @(104,8500 mm, 114,2200 mm): Ilha PTH 10 [unconnected-(J3-Pin_10-Pad10)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 24 [unconnected-(U1-D26-Pad24)] de U1
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 9 [unconnected-(J3-Pin_9-Pad9)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 24 [unconnected-(U1-D26-Pad24)] de U1
+    @(104,8500 mm, 116,7600 mm): Ilha PTH 9 [unconnected-(J3-Pin_9-Pad9)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 23 [unconnected-(U1-D25-Pad23)] de U1
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 8 [unconnected-(J3-Pin_8-Pad8)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 23 [unconnected-(U1-D25-Pad23)] de U1
+    @(104,8500 mm, 119,3000 mm): Ilha PTH 8 [unconnected-(J3-Pin_8-Pad8)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 22 [unconnected-(U1-D33-Pad22)] de U1
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 7 [unconnected-(J3-Pin_7-Pad7)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 22 [unconnected-(U1-D33-Pad22)] de U1
+    @(104,8500 mm, 121,8400 mm): Ilha PTH 7 [unconnected-(J3-Pin_7-Pad7)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 21 [unconnected-(U1-D32-Pad21)] de U1
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 6 [unconnected-(J3-Pin_6-Pad6)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 21 [unconnected-(U1-D32-Pad21)] de U1
+    @(104,8500 mm, 124,3800 mm): Ilha PTH 6 [unconnected-(J3-Pin_6-Pad6)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 20 [unconnected-(U1-D35-Pad20)] de U1
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 5 [unconnected-(J3-Pin_5-Pad5)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 20 [unconnected-(U1-D35-Pad20)] de U1
+    @(104,8500 mm, 126,9200 mm): Ilha PTH 5 [unconnected-(J3-Pin_5-Pad5)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 19 [unconnected-(U1-D34-Pad19)] de U1
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 4 [unconnected-(J3-Pin_4-Pad4)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 19 [unconnected-(U1-D34-Pad19)] de U1
+    @(104,8500 mm, 129,4600 mm): Ilha PTH 4 [unconnected-(J3-Pin_4-Pad4)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 18 [unconnected-(U1-VN-Pad18)] de U1
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 3 [unconnected-(J3-Pin_3-Pad3)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 18 [unconnected-(U1-VN-Pad18)] de U1
+    @(104,8500 mm, 132,0000 mm): Ilha PTH 3 [unconnected-(J3-Pin_3-Pad3)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 17 [unconnected-(U1-VP-Pad17)] de U1
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 2 [unconnected-(J3-Pin_2-Pad2)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 17 [unconnected-(U1-VP-Pad17)] de U1
+    @(104,8500 mm, 134,5400 mm): Ilha PTH 2 [unconnected-(J3-Pin_2-Pad2)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 16 [unconnected-(U1-EN-Pad16)] de U1
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 1 [unconnected-(J3-Pin_1-Pad1)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 16 [unconnected-(U1-EN-Pad16)] de U1
+    @(104,8500 mm, 137,0800 mm): Ilha PTH 1 [unconnected-(J3-Pin_1-Pad1)] de J3
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 132,0000 mm): Ilha PTH 13 [unconnected-(U1-TX0-Pad13)] de U1
+    @(130,2700 mm, 131,8800 mm): Ilha PTH 13 [unconnected-(J2-Pin_13-Pad13)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 132,0000 mm): Ilha PTH 13 [unconnected-(U1-TX0-Pad13)] de U1
+    @(130,2700 mm, 131,8800 mm): Ilha PTH 13 [unconnected-(J2-Pin_13-Pad13)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 129,4600 mm): Ilha PTH 12 [unconnected-(U1-RX0-Pad12)] de U1
+    @(130,2700 mm, 129,3400 mm): Ilha PTH 12 [unconnected-(J2-Pin_12-Pad12)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 129,4600 mm): Ilha PTH 12 [unconnected-(U1-RX0-Pad12)] de U1
+    @(130,2700 mm, 129,3400 mm): Ilha PTH 12 [unconnected-(J2-Pin_12-Pad12)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 124,3800 mm): Ilha PTH 10 [unconnected-(U1-D19-Pad10)] de U1
+    @(130,2700 mm, 124,2600 mm): Ilha PTH 10 [unconnected-(J2-Pin_10-Pad10)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 124,3800 mm): Ilha PTH 10 [unconnected-(U1-D19-Pad10)] de U1
+    @(130,2700 mm, 124,2600 mm): Ilha PTH 10 [unconnected-(J2-Pin_10-Pad10)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 121,8400 mm): Ilha PTH 9 [unconnected-(U1-D18-Pad9)] de U1
+    @(130,2700 mm, 121,7200 mm): Ilha PTH 9 [unconnected-(J2-Pin_9-Pad9)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 121,8400 mm): Ilha PTH 9 [unconnected-(U1-D18-Pad9)] de U1
+    @(130,2700 mm, 121,7200 mm): Ilha PTH 9 [unconnected-(J2-Pin_9-Pad9)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 116,7600 mm): Ilha PTH 7 [unconnected-(U1-TX2-Pad7)] de U1
+    @(130,2700 mm, 116,6400 mm): Ilha PTH 7 [unconnected-(J2-Pin_7-Pad7)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 116,7600 mm): Ilha PTH 7 [unconnected-(U1-TX2-Pad7)] de U1
+    @(130,2700 mm, 116,6400 mm): Ilha PTH 7 [unconnected-(J2-Pin_7-Pad7)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 114,2200 mm): Ilha PTH 6 [unconnected-(U1-RX2-Pad6)] de U1
+    @(130,2700 mm, 114,1000 mm): Ilha PTH 6 [unconnected-(J2-Pin_6-Pad6)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 114,2200 mm): Ilha PTH 6 [unconnected-(U1-RX2-Pad6)] de U1
+    @(130,2700 mm, 114,1000 mm): Ilha PTH 6 [unconnected-(J2-Pin_6-Pad6)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda da frente conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 106,6000 mm): Ilha PTH 3 [unconnected-(U1-D15-Pad3)] de U1
+    @(130,2700 mm, 106,4800 mm): Ilha PTH 3 [unconnected-(J2-Pin_3-Pad3)] de J2
+[solder_mask_bridge]: A abertura da máscara de solda de trás conecta itens com redes diferentes
+    Regra: configuração da placa, largura mínima da máscara de solda; error
+    @(130,2500 mm, 106,6000 mm): Ilha PTH 3 [unconnected-(U1-D15-Pad3)] de U1
+    @(130,2700 mm, 106,4800 mm): Ilha PTH 3 [unconnected-(J2-Pin_3-Pad3)] de J2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
